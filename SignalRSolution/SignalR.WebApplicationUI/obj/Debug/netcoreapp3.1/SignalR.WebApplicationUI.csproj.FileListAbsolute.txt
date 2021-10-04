@@ -1,0 +1,115 @@
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.exe
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.deps.json
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.runtimeconfig.json
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.runtimeconfig.dev.json
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.dll
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.pdb
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.Views.dll
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.Views.pdb
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.AssemblyInfo.cs
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.TagHelpers.input.cache
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.TagHelpers.output.cache
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorCoreGenerate.cache
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.Views.pdb
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\staticwebassets\SignalR.WebApplicationUI.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\staticwebassets\SignalR.WebApplicationUI.StaticWebAssets.xml
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.dll
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.pdb
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.genruntimeconfig.cache
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.csproj.CopyComplete
+C:\Users\User\source\repos\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.exe
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.deps.json
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.runtimeconfig.json
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.runtimeconfig.dev.json
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.dll
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.pdb
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.Views.dll
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.Views.pdb
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.AssemblyInfo.cs
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.TagHelpers.input.cache
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.TagHelpers.output.cache
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorCoreGenerate.cache
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.Views.pdb
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\staticwebassets\SignalR.WebApplicationUI.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\staticwebassets\SignalR.WebApplicationUI.StaticWebAssets.xml
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.dll
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.pdb
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.genruntimeconfig.cache
+C:\Users\User\Desktop\ASP.Net MVC Core 3.1\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.csproj.CopyComplete
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.exe
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.deps.json
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.runtimeconfig.json
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.runtimeconfig.dev.json
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.dll
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.pdb
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.Views.dll
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\bin\Debug\netcoreapp3.1\SignalR.WebApplicationUI.Views.pdb
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.AssemblyInfo.cs
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\staticwebassets\SignalR.WebApplicationUI.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\staticwebassets\SignalR.WebApplicationUI.StaticWebAssets.xml
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\SignalR.WebApplicationUI.styles.css
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.TagHelpers.input.cache
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.TagHelpers.output.cache
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorCoreGenerate.cache
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.Views.pdb
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.dll
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.pdb
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.genruntimeconfig.cache
+C:\Users\User\Desktop\SignalR\SignalRSolution\SignalR.WebApplicationUI\obj\Debug\netcoreapp3.1\SignalR.WebApplicationUI.csproj.CopyComplete
